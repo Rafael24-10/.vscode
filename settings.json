@@ -1,0 +1,19 @@
+{
+    "breadcrumbs.enabled": false,
+    "workbench.editor.showTabs": "none",
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.location": "bottom",
+    "workbench.tips.enabled": false,
+    "editor.minimap.renderCharacters": true,
+    "editor.minimap.showSlider": "mouseover",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 1.8,
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "explorer.compactFolders": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.stickyScroll.scrollWithEditor": false,
+    "editor.stickyTabStops": true
+}
+
